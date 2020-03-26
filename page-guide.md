@@ -1,7 +1,3 @@
----
-description: page1
----
-
 # page-guide
 
 ## Getting Super Powers
